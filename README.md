@@ -1,4 +1,5 @@
-Hello gloud Gurus!
+Hello gloud Gurus! Yet more changes.
+
 
 # this is a readme file
 Used for acloud.guru training
